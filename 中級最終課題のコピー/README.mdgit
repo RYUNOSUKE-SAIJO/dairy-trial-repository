@@ -1,0 +1,1 @@
+# dairy-trial-repository initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin git@github.com:RYUNOSUKE-SAIJO/dairy-trial-repository.gitgit push -u origin main
